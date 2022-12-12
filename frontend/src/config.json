@@ -1,15 +1,15 @@
 {
     "system": {
-        "name": "King Ticket",
+        "name": "PayBee - Whatsapp Marketing",
         "url": "#",
         "color": {
             "lightTheme": {
                 "palette": {
-                    "primary": "#6B62FE",
-                    "secondary": "#F50057"
+                    "primary": "#f5af19",
+                    "secondary": "#111110"
                 },
                 "toolbar": {
-                    "background": "linear-gradient(to right, #6B62FE, #f50057)"
+                    "background": "linear-gradient(to right, #f58619, #f5af19)"
                 },
                 "menuItens": "#ffffff",
                 "sub": "#ffffff",
@@ -18,19 +18,19 @@
             },
             "darkTheme": {
                 "palette": {
-                    "primary": "#52d869",
+                    "primary": "#f5af19",
                     "secondary": "#ff9100",
                     "background": {
-                        "default": "#080d14",
+                        "default": "#111110",
                         "paper": "#181d22"
                     },
                     "text": {
-                        "primary": "#52d869",
+                        "primary": "#f58619",
                         "secondary": "#ffffff"
                     }
                 },
                 "toolbar": {
-                    "background": "linear-gradient(to right, #52d869, #ff9100)"
+                    "background": "linear-gradient(to right, #f58619, #f5af19)"
                 },
                 "menuItens": "#181d22",
                 "sub": "#181d22",

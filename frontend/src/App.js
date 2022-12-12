@@ -30,9 +30,9 @@ const App = () => {
         },
       },
       palette: {
-        primary: { main: system.color.lightTheme.palette.primary || "#6B62FE" },
-        secondary: { main: system.color.lightTheme.palette.secondary || "#F50057" },
-        toolbar: { main: system.color.lightTheme.toolbar.background || "#6B62FE" },
+        primary: { main: system.color.lightTheme.palette.primary || "#f5af19" },
+        secondary: { main: system.color.lightTheme.palette.secondary || "#111110" },
+        toolbar: { main: system.color.lightTheme.toolbar.background || "#f5af19" },
         menuItens: { main: system.color.lightTheme.menuItens || "#ffffff" },
         sub: { main: system.color.lightTheme.sub || "#ffffff" },
         toolbarIcon: { main: system.color.lightTheme.toolbarIcon || "#ffffff"},
@@ -65,9 +65,9 @@ const App = () => {
         },
       },
       palette: {
-        primary: { main: system.color.darkTheme.palette.primary || "#52d869" },
+        primary: { main: system.color.darkTheme.palette.primary || "#f5af19" },
         secondary: { main: system.color.darkTheme.palette.secondary || "#ff9100" },
-        toolbar: { main: system.color.darkTheme.toolbar.background || "#52d869" },
+        toolbar: { main: system.color.darkTheme.toolbar.background || "#f5af19" },
         menuItens: { main: system.color.darkTheme.menuItens || "#181d22" },
         sub: { main: system.color.darkTheme.sub || "#181d22" },
         toolbarIcon: { main: system.color.darkTheme.toolbarIcon || "#181d22"},
@@ -77,7 +77,7 @@ const App = () => {
           paper: system.color.darkTheme.palette.background.paper || "#181d22",
         },
         text: {
-          primary: system.color.darkTheme.palette.text.primary || "#52d869",
+          primary: system.color.darkTheme.palette.text.primary || "#f5af19",
           secondary: system.color.darkTheme.palette.text.secondary || "#ffffff",
         },
       },

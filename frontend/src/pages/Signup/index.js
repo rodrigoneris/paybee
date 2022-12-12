@@ -30,7 +30,7 @@ const Copyright = () => {
 			© {new Date().getFullYear()}
 			{" - "}
 			<Link color="inherit" href="https://infobyte.tec.br">
-				King Press - v{system.version}
+				PayBee - v{system.version}
 			</Link>
 			{"."}
 		</Typography>
